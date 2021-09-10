@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=~/ubuntu-screenshot-bg/reportsystem.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=ReportSystem
+Name=ReportSystem
+Comment[en_US]=
+Comment=
